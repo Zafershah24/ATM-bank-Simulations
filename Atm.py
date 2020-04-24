@@ -53,6 +53,6 @@ while chances>=0:
         chances=chances-1
         print("You have just ",chances,"left")
         if chances==0:
-            print("\n No more Trials\nPlease Contact your Bank to Further Details,Until then Your is Blocked\n")
+            print("\n No more Trials\nPlease Contact your Bank for Further Details,Until then Your is Blocked\n")
             break
 

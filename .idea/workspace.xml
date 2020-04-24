@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f26616-20d6-4d37-bd82-d4081bdd7ee4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ATM-bank-Simulations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,43 +60,56 @@
       <option name="presentableId" value="Default" />
       <updated>1587754152069</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is an ATM simulation tried using python">
+      <created>1587755120050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755120050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="This is an ATM simulation tried using python" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is an ATM simulation tried using python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587754213207">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1587754213207" />
-    <state x="422" y="41" key="CommitChangelistDialog2" timestamp="1587754245585">
+    <state x="422" y="41" key="CommitChangelistDialog2" timestamp="1587755119312">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="422" y="41" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1587754245585" />
+    <state x="422" y="41" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1587755119312" />
     <state x="548" y="202" key="FileChooserDialogImpl" timestamp="1587754205158">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="548" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1587754205158" />
-    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1587754828818">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1587755337167">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
-    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1587754828818">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1587755337167" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1587755337166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
-    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1587754828818">
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1587755337166" />
+    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1587755337166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
-    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1587754828818">
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1587755337166" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1587755337167">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1587755337167" />
     <state x="277" y="89" key="SettingsEditor" timestamp="1587754183249">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="277" y="89" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1587754183249" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1587755134934">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1587755134934" />
   </component>
 </project>
