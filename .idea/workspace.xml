@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f26616-20d6-4d37-bd82-d4081bdd7ee4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ATM-bank-Simulations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atm.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b01MvxhGnbxKiXuhVlOH7ZiWg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atm.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Atm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ATM-bank-Simulations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f26616-20d6-4d37-bd82-d4081bdd7ee4" name="Default Changelist" comment="" />
+      <created>1587754152069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587754152069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587754213207">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1587754213207" />
+    <state x="422" y="41" key="CommitChangelistDialog2" timestamp="1587754245585">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="422" y="41" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1587754245585" />
+    <state x="548" y="202" key="FileChooserDialogImpl" timestamp="1587754205158">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="548" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1587754205158" />
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1587754828818">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1587754828818">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
+    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1587754828818">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1587754828818">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1587754828818" />
+    <state x="277" y="89" key="SettingsEditor" timestamp="1587754183249">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="277" y="89" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1587754183249" />
+  </component>
+</project>

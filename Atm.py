@@ -33,21 +33,21 @@ while chances>=0:
                     restart("y","Y")
                 elif withdrawal==1:
                     withdrawal=float(input("Please Enter Desired Amount:"))
-                elif option==3:
-                    Pay_in=float(input("How much Amount do you want to Pay in?"))
-                    balance=balance+Pay_in
-                    print("Your Balance is now:",balance)
-                    restart = input("Would you Like to Go Back?")
-                    if restart in ("n", "NO", "no", "No", "N"):
-                        print("Thank You")
-                        break
-                elif option==4:
-                    print("Please Wait while your Card is Returned.\n")
-                    print("Thank you for your Service")
+            elif option==3:
+                Pay_in=float(input("How much Amount do you want to Pay in?"))
+                balance=balance+Pay_in
+                print("Your Balance is now:",balance)
+                restart = input("Would you Like to Go Back?")
+                if restart in ("n", "NO", "no", "No", "N"):
+                    print("Thank You")
                     break
-                else:
-                    print("Please Enter a correct Number\n")
-                    restart=("y","Y")
+            elif option==4:
+                print("Please Wait while your Card is Returned.\n")
+                print("Thank you for your Service")
+                break
+            else:
+                print("Please Enter a correct Number\n")
+                restart=("y","Y")
     elif pin !=(3045):
         print("Incorrect Password !!\n")
         chances=chances-1
