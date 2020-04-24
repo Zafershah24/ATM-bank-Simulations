@@ -1,5 +1,5 @@
 print("Welcome to Our Bank Services")
-restart=("y")
+restart=("y","Y")
 chances =3
 balance=10000
 while chances>=0:
@@ -10,7 +10,7 @@ while chances>=0:
             print("Please press 1 to show your balance\n")
             print("Please press 2 to make a Withdrawal \n")
             print("Please press 3 to Pay in\n")
-            print("Please press 4 to Return Card \n")
+            print("Please press 4 to Take back your Card \n")
             option =int(input("Enter Your Input"))
             if option==1:
                 print("Your Account Balance is :",balance,"\n")
@@ -42,7 +42,7 @@ while chances>=0:
                     print("Thank You")
                     break
             elif option==4:
-                print("Please Wait while your Card is Returned.\n")
+                print("Please Wait while your Card is being Returned.\n")
                 print("Thank you for your Service")
                 break
             else:
